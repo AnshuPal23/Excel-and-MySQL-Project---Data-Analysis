@@ -1,7 +1,3 @@
--- Name: Vivek Vijay Patil
--- Project: Employee and Department Management System
--- Tool: MySQL Workbench
--- Database: MySQL
 
 create database  CompanyDB;
 use CompanyDB;
